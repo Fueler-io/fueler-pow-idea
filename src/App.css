@@ -63,7 +63,7 @@ a{
 .main-header-profile img{
 	height: 130px;
 	width: 130px;
-	background: #000;
+	background: #fff	;
 
 	padding: .8rem;
 	border: 2.5px solid white;
@@ -127,6 +127,7 @@ a{
 	color: #0A0433;
 	font-weight: 600;
 	font-size: .9rem;
+	width: max-content;
 
 }
 
@@ -140,6 +141,15 @@ footer{
 @media screen and (min-width:769px) {
 	.card-content{
 		width: 75%;
+	}
+	.mobile-cta{
+		display: none;
+	}
+	.cta {
+		display: block;
+	}
+	.cta img{
+		border-radius: 14px;
 	}
 }
 
@@ -199,5 +209,16 @@ footer{
 		margin-top: 1rem !important;
 		margin-bottom: 1rem !important;
 	}
+
+	.cta{
+		display: none;
+	}
+		.mobile-cta {
+			display: block;
+		}
+
+				.mobile-cta img{
+					border-radius: 14px;
+				}
 
 }
