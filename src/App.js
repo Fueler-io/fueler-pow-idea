@@ -27,7 +27,7 @@ function App() {
 									</div>
 								</div>
 								<h2 className='fw-bold primary-color'>Fueler</h2>
-								<p className='text-gray fw-500'>We go beyond the conventional methods of consulting, and provides actionable mentoring and strategies to the clueless entrepreneurs.</p>
+								<p className='text-gray fw-500'>Show your work and make more money ✦ New age portfolio tool for Content Writers and Marketers ✦ Loved by 15,000+ folks around the world</p>
 
 								<a href="https://www.fueler.io/" target="_blank" rel="noopener noreferrer" id='website-button-botom' className='btn primary-button px-3 fw-500'>Explore Website</a>
 							
@@ -40,11 +40,9 @@ function App() {
 
 
 			<section className='main-body my-3'>
-
 				<div className='container main-body-heading text-center py-3'>
 					<h1 className='fw-bold primary-color'>Our Proof of Work Ideas</h1>
 				</div>
-
 				<div className="container">
 					<div className="row justify-content-center py-4">
 						{/* POW IDea 1 */}
@@ -68,7 +66,6 @@ function App() {
 									</div>
 								</div>
 							</div>
-
 						</div>
 
 						{/* POW IDea 1 */}
@@ -149,11 +146,11 @@ function App() {
 									<div className="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center">
 										<div className='d-flex justify-content-start flex-wrap align-items-center'>
 											<div className='card-icon my-3 mr-2'>
-												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149894/fueler-emoji/cvvhxbsssxjqy26ctcfe.png" alt="" />
+												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1639893942/fueler-emoji/ztkiawa97jygjbxkzhn5.png" alt="" />
 											</div>
 											<div className='card-content'>
 												<p className='mb-0 text-basic fw-500'>
-													Shoot a YouTube video on “How to create a customized portfolio using Fueler? (Mention Fueler Bucket)”
+													Shoot a YouTube video on “How to create a customized portfolio using Fueler? (Mention Custom Portfolio)”
 												</p>
 											</div>
 										</div>
@@ -204,7 +201,7 @@ function App() {
 									<div className="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center">
 										<div className='d-flex justify-content-start flex-wrap align-items-center'>
 											<div className='card-icon my-3 mr-2'>
-												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149894/fueler-emoji/cvvhxbsssxjqy26ctcfe.png" alt="" />
+												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1639899270/fueler-emoji/y2yrznruys63ev5jegov.png" alt="" />
 											</div>
 											<div className='card-content'>
 												<p className='mb-0 text-basic fw-500'>
@@ -232,7 +229,7 @@ function App() {
 									<div className="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center">
 										<div className='d-flex justify-content-start flex-wrap align-items-center'>
 											<div className='card-icon my-3 mr-2'>
-												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149894/fueler-emoji/cvvhxbsssxjqy26ctcfe.png" alt="" />
+												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149518/fueler-emoji/f2y5jn8xekccc2fxn1kv.png" alt="" />
 											</div>
 											<div className='card-content'>
 												<p className='mb-0 text-basic fw-500'>
@@ -260,7 +257,7 @@ function App() {
 									<div className="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center">
 										<div className='d-flex justify-content-start flex-wrap align-items-center'>
 											<div className='card-icon my-3 mr-2'>
-												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149894/fueler-emoji/cvvhxbsssxjqy26ctcfe.png" alt="" />
+												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149397/fueler-emoji/p5agjdb7xqsa4tk3gtaz.png" alt="" />
 											</div>
 											<div className='card-content'>
 												<p className='mb-0 text-basic fw-500'>
@@ -287,7 +284,7 @@ function App() {
 									<div className="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center">
 										<div className='d-flex justify-content-start flex-wrap align-items-center'>
 											<div className='card-icon my-3 mr-2'>
-												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149894/fueler-emoji/cvvhxbsssxjqy26ctcfe.png" alt="" />
+												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1639893913/fueler-emoji/ukxpqmqbbax8w9naf5zo.png" alt="" />
 											</div>
 											<div className='card-content'>
 												<p className='mb-0 text-basic fw-500'>
@@ -314,7 +311,7 @@ function App() {
 									<div className="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center">
 										<div className='d-flex justify-content-start flex-wrap align-items-center'>
 											<div className='card-icon my-3 mr-2'>
-												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149894/fueler-emoji/cvvhxbsssxjqy26ctcfe.png" alt="" />
+												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149282/fueler-emoji/ewfygixbnvvbp6fpgyin.png" alt="" />
 											</div>
 											<div className='card-content'>
 												<p className='mb-0 text-basic fw-500'>
@@ -342,7 +339,7 @@ function App() {
 									<div className="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center">
 										<div className='d-flex justify-content-start flex-wrap align-items-center'>
 											<div className='card-icon my-3 mr-2'>
-												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149894/fueler-emoji/cvvhxbsssxjqy26ctcfe.png" alt="" />
+												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149265/fueler-emoji/ekzzkvpn2clmh7qjt2cn.png" alt="" />
 											</div>
 											<div className='card-content'>
 												<p className='mb-0 text-basic fw-500'>
@@ -370,7 +367,7 @@ function App() {
 									<div className="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center">
 										<div className='d-flex justify-content-start flex-wrap align-items-center'>
 											<div className='card-icon my-3 mr-2'>
-												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149894/fueler-emoji/cvvhxbsssxjqy26ctcfe.png" alt="" />
+												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641147093/fueler-emoji/kzsccxabpksuzctdcsca.png" alt="" />
 											</div>
 											<div className='card-content'>
 												<p className='mb-0 text-basic fw-500'>
@@ -396,7 +393,7 @@ function App() {
 									<div className="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center">
 										<div className='d-flex justify-content-start flex-wrap align-items-center'>
 											<div className='card-icon my-3 mr-2'>
-												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149894/fueler-emoji/cvvhxbsssxjqy26ctcfe.png" alt="" />
+												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149744/fueler-emoji/gbg5b1mgtzzuey0t6eax.png" alt="" />
 											</div>
 											<div className='card-content'>
 												<p className='mb-0 text-basic fw-500'>
@@ -423,7 +420,7 @@ function App() {
 									<div className="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center">
 										<div className='d-flex justify-content-start flex-wrap align-items-center'>
 											<div className='card-icon my-3 mr-2'>
-												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149894/fueler-emoji/cvvhxbsssxjqy26ctcfe.png" alt="" />
+												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641147966/fueler-emoji/kyynug2s5uujmh47kqs5.png" alt="" />
 											</div>
 											<div className='card-content'>
 												<p className='mb-0 text-basic fw-500'>
@@ -451,7 +448,7 @@ function App() {
 									<div className="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center">
 										<div className='d-flex justify-content-start flex-wrap align-items-center'>
 											<div className='card-icon my-3 mr-2'>
-												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149894/fueler-emoji/cvvhxbsssxjqy26ctcfe.png" alt="" />
+												<img src="https://res.cloudinary.com/kiwismedia/image/upload/v1641149514/fueler-emoji/b24tx6yuaeamcbgqni67.png" alt="" />
 											</div>
 											<div className='card-content'>
 												<p className='mb-0 text-basic fw-500'>
